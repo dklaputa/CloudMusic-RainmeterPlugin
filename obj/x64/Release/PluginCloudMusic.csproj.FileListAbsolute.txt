@@ -1,0 +1,4 @@
+E:\Workplace\C#\rainmeter-rainmeter-plugin-sdk-a32273c\C#\PluginCloudMusic\bin\x64\Release\PluginCloudMusic.dll
+E:\Workplace\C#\rainmeter-rainmeter-plugin-sdk-a32273c\C#\PluginCloudMusic\obj\x64\Release\PluginCloudMusic.csprojAssemblyReference.cache
+E:\Workplace\C#\rainmeter-rainmeter-plugin-sdk-a32273c\C#\PluginCloudMusic\obj\x64\Release\PluginCloudMusic.csproj.CoreCompileInputs.cache
+E:\Workplace\C#\rainmeter-rainmeter-plugin-sdk-a32273c\C#\PluginCloudMusic\obj\x64\Release\PluginCloudMusic.dll
